@@ -2,6 +2,8 @@
 
 Prometheus uses GitHub to manage reviews of pull requests.
 
+* This particular fork is maintained by me and you can either email or create issues on the repo. Do not contribute to this repo if you think this is the original one. It is not. Go to https://github.com/prometheus/influxdb_exporter to find the original.
+
 * If you have a trivial fix or improvement, go ahead and create a pull request,
   addressing (with `@...`) the maintainer of this repository (see
   [MAINTAINERS.md](MAINTAINERS.md)) in the description of the pull request.
